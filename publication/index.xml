@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Dr David Yu 余博</title>
+    <link>https://hfdavidyu.github.io/publication/</link>
+    <description>Recent content in Publications on Dr David Yu 余博</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://hfdavidyu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prompt Emission of GRB121217A From Gamma-rays to the Near-infrared</title>
+      <link>https://hfdavidyu.github.io/publication/prompt-emission-of-grb121217a-from-gamma-rays-to-the-near-infrared/</link>
+      <pubDate>Mon, 07 Jan 2019 18:04:40 +0100</pubDate>
+      
+      <guid>https://hfdavidyu.github.io/publication/prompt-emission-of-grb121217a-from-gamma-rays-to-the-near-infrared/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
