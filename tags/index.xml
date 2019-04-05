@@ -7,9 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Apr 2019 23:32:12 +0800</lastBuildDate>
     
 	<atom:link href="https://hfdavidyu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bayesian Statistics</title>
+      <link>https://hfdavidyu.github.io/tags/bayesian-statistics/</link>
+      <pubDate>Mon, 01 Apr 2019 23:32:12 +0800</pubDate>
+      
+      <guid>https://hfdavidyu.github.io/tags/bayesian-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gamma-Ray Bursts</title>
+      <link>https://hfdavidyu.github.io/tags/gamma-ray-bursts/</link>
+      <pubDate>Mon, 01 Apr 2019 23:32:12 +0800</pubDate>
+      
+      <guid>https://hfdavidyu.github.io/tags/gamma-ray-bursts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational Waves</title>
+      <link>https://hfdavidyu.github.io/tags/gravitational-waves/</link>
+      <pubDate>Mon, 01 Aug 2016 23:29:25 +0800</pubDate>
+      
+      <guid>https://hfdavidyu.github.io/tags/gravitational-waves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pulsars</title>
+      <link>https://hfdavidyu.github.io/tags/pulsars/</link>
+      <pubDate>Sun, 01 Apr 2018 23:30:03 +0800</pubDate>
+      
+      <guid>https://hfdavidyu.github.io/tags/pulsars/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian Statistics on Dr David Yu 余博</title>
+    <link>https://hfdavidyu.github.io/tags/bayesian-statistics/</link>
+    <description>Recent content in Bayesian Statistics on Dr David Yu 余博</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Apr 2019 23:32:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://hfdavidyu.github.io/tags/bayesian-statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On the α-Intensity Correlation in GRBs Subphotospheric Heating With Varying Entropy</title>
+      <link>https://hfdavidyu.github.io/publication/on-the-alpha-intensity-correlation-in-grbs-subphotospheric-heating-with-varying-entropy/</link>
+      <pubDate>Mon, 01 Apr 2019 23:32:12 +0800</pubDate>
+      
+      <guid>https://hfdavidyu.github.io/publication/on-the-alpha-intensity-correlation-in-grbs-subphotospheric-heating-with-varying-entropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Analysis on the X-Ray Spectra of the Binary Neutron Star Merger GW170817</title>
+      <link>https://hfdavidyu.github.io/publication/bayesian-analysis-on-the-x-ray-spectra-of-the-binary-neutron-star-merger-gw170817/</link>
+      <pubDate>Fri, 01 Mar 2019 23:31:26 +0800</pubDate>
+      
+      <guid>https://hfdavidyu.github.io/publication/bayesian-analysis-on-the-x-ray-spectra-of-the-binary-neutron-star-merger-gw170817/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awakening the BALROG: BAyesian Location Reconstruction of GRBs</title>
+      <link>https://hfdavidyu.github.io/publication/awakening-the-balrog-bayesian-location-reconstruction-of-grbs/</link>
+      <pubDate>Tue, 01 May 2018 23:30:37 +0800</pubDate>
+      
+      <guid>https://hfdavidyu.github.io/publication/awakening-the-balrog-bayesian-location-reconstruction-of-grbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Inference on the Radio Quietness of Gamma Ray Pulsars</title>
+      <link>https://hfdavidyu.github.io/publication/bayesian-inference-on-the-radio-quietness-of-gamma-ray-pulsars/</link>
+      <pubDate>Sun, 01 Apr 2018 23:30:03 +0800</pubDate>
+      
+      <guid>https://hfdavidyu.github.io/publication/bayesian-inference-on-the-radio-quietness-of-gamma-ray-pulsars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Fermi GBM Event 0.4 Sec After GW 150914</title>
+      <link>https://hfdavidyu.github.io/publication/on-the-fermi-gbm-event-04-sec-after-gw-150914/</link>
+      <pubDate>Mon, 01 Aug 2016 23:29:25 +0800</pubDate>
+      
+      <guid>https://hfdavidyu.github.io/publication/on-the-fermi-gbm-event-04-sec-after-gw-150914/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

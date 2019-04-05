@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dr David Yu 余博 on Dr David Yu 余博</title>
-    <link>https://hfdavidyu.github.io/</link>
-    <description>Recent content in Dr David Yu 余博 on Dr David Yu 余博</description>
+    <title>2 on Dr David Yu 余博</title>
+    <link>https://hfdavidyu.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Dr David Yu 余博</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Apr 2019 23:32:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://hfdavidyu.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>On the α-Intensity Correlation in GRBs Subphotospheric Heating With Varying Entropy</title>
@@ -44,49 +46,6 @@
       
       <guid>https://hfdavidyu.github.io/publication/bayesian-inference-on-the-radio-quietness-of-gamma-ray-pulsars/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Hands on Bayesian Data Analysis</title>
-      <link>https://hfdavidyu.github.io/post/hands-on-bayesian-data-analysis/</link>
-      <pubDate>Tue, 06 Mar 2018 18:31:08 +0100</pubDate>
-      
-      <guid>https://hfdavidyu.github.io/post/hands-on-bayesian-data-analysis/</guid>
-      <description>&lt;p&gt;This is an introductory workshop on &lt;em&gt;Bayesian Data Analysis&lt;/em&gt; aiming at undergrad students who in the near future may work as a researcher in the academia or industry. I will give an 1-hour overview on the difference between Bayesian and frequentist analysis methods, followed by a 2-hour hands-on session on analysing some simulated data. We will learn how to properly fit a line to data points. We will get to know that we have probably mis-understood some of the statistical concepts. No more reduced-Chi-squared, no more F-test, because a single &lt;em&gt;Bayes Theorem&lt;/em&gt; rules them all.&lt;/p&gt;
-
-&lt;p&gt;Participants should bring their own laptop and get the following installed before coming to the hands-on session.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.python.org&#34;&gt;Python&lt;/a&gt; (better version 2.7.xx)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://docs.pymc.io/index.html&#34;&gt;PyMC3&lt;/a&gt; (the main Bayesian tool we are using)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jupyter.org&#34;&gt;Jupyter Notebook&lt;/a&gt; (iPython interactive interface used together with your web browser)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://pypi.python.org/pypi/pip&#34;&gt;Pip&lt;/a&gt; (tool to download the following Python packages)&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;numpy (basic computation)&lt;/li&gt;
-&lt;li&gt;scipy (scientific computation)&lt;/li&gt;
-&lt;li&gt;matplotlib (for plotting)&lt;/li&gt;
-&lt;li&gt;seaborn (for nice contour/corner plots)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You can also choose to install Anaconda for Jupyter following the instruction in the previous &lt;a href=&#34;http://ryan-leung.github.io/PHYS4650_Python_Tutorial&#34;&gt;Python Training Workshop 2018&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Detailed instruction can be found therein in the links. You are also welcome to contact me (email written below) or Stephen for help.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/hg3cy6bpdr7b6wm/HKU_Bayesian_Hands-on_2018.ipynb?dl=0&#34;&gt;Jupyter Notebook used in the Workshop&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/y4sl4nprkbmxv8w/Bayes.pdf?dl=0&#34;&gt;Workshop Sildes&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Some recommended readings for Bayesian Data Analysis:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Data Analysis A Bayesian Tutorial by Sivia &amp;amp; Skilling&lt;/li&gt;
-&lt;li&gt;Bayesian Data Analysis by Gelman&lt;/li&gt;
-&lt;li&gt;Doing Bayesian Data Analysis by Kruschke&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
     <item>
