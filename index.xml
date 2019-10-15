@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Non-dissipative Photospheres in GRBs: Spectral Appearance in the Fermi/GBM Catalogue</title>
+      <link>https://hfdavidyu.github.io/publication/non-dissipative-photospheres-in-grbs-spectral-appearance-in-the-fermi-gbm-catalogue/</link>
+      <pubDate>Mon, 01 Apr 2019 23:32:12 +0800</pubDate>
+      
+      <guid>https://hfdavidyu.github.io/publication/non-dissipative-photospheres-in-grbs-spectral-appearance-in-the-fermi-gbm-catalogue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On the α-Intensity Correlation in GRBs: Subphotospheric Heating With Varying Entropy</title>
       <link>https://hfdavidyu.github.io/publication/on-the-alpha-intensity-correlation-in-grbs-subphotospheric-heating-with-varying-entropy/</link>
       <pubDate>Mon, 01 Apr 2019 23:32:12 +0800</pubDate>
@@ -75,9 +84,9 @@
 
 &lt;p&gt;Detailed instruction can be found therein in the links. You are also welcome to contact me (email written below) or Stephen for help.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/hg3cy6bpdr7b6wm/HKU_Bayesian_Hands-on_2018.ipynb?dl=0&#34;&gt;Jupyter Notebook used in the Workshop&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/0elvhcmww5o8zr9/HKU_Bayesian_Hands-on_2019.ipynb?dl=0&#34;&gt;Jupyter Notebook used in the Workshop&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/y4sl4nprkbmxv8w/Bayes.pdf?dl=0&#34;&gt;Workshop Sildes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/ihvk2a9v7sctep6/Bayes.pdf?dl=0&#34;&gt;Workshop Sildes&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Some recommended readings for Bayesian Data Analysis:&lt;/p&gt;
 
